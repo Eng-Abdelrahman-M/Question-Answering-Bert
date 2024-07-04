@@ -1,6 +1,6 @@
 # Question-Answering-Bert
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6940040621550116864" height="1229" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[Demonstrating video](https://www.linkedin.com/posts/abdelrahman-othman-197235b7_nlp-questionanswer-activity-6940040662406815744-Wq6v?utm_source=share&utm_medium=member_desktop)
 
 The app takes two inputs:
 1. Speech or text question.
